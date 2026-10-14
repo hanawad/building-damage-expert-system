@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Building damage assessment with structural engineering and AI</title>
+  <desc id="desc">A structural building silhouette connected to an AI network over a deep blue background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10243a"/>
+      <stop offset="1" stop-color="#194963"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#50d6c6"/>
+      <stop offset="1" stop-color="#76b9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <g fill="none" stroke="#8ec9dc" stroke-width="3" opacity=".8">
+    <path d="M80 244V106l78-46 78 46v138M80 106h156M119 83v161m78-161v161M80 151h156M80 197h156"/>
+    <path d="m158 60 15 46-15 45 15 46-15 47" stroke="#ffba75" stroke-width="4"/>
+    <path d="M236 129h71m-71 45h71m-71 45h71"/>
+    <path d="M307 129 354 96m-47 78h47m-47 45 47 33"/>
+    <path d="M354 96h55m-55 78h55m-55 78h55"/>
+  </g>
+  <g fill="url(#accent)" stroke="#d6f6ff" stroke-width="2">
+    <circle cx="307" cy="129" r="7"/><circle cx="307" cy="174" r="7"/><circle cx="307" cy="219" r="7"/>
+    <circle cx="354" cy="96" r="7"/><circle cx="354" cy="174" r="7"/><circle cx="354" cy="252" r="7"/>
+    <circle cx="409" cy="96" r="7"/><circle cx="409" cy="174" r="7"/><circle cx="409" cy="252" r="7"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#f2f8fc">
+    <text x="465" y="128" font-size="38" font-weight="700">BUILDING DAMAGE</text>
+    <text x="465" y="174" font-size="38" font-weight="700">EXPERT SYSTEM</text>
+    <text x="467" y="218" font-size="19" fill="#b8d4e2">Fuzzy reasoning · Rule chaining · Rehabilitation guidance</text>
+  </g>
+  <path d="M465 238h565" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>
